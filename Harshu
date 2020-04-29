@@ -335,7 +335,7 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/harshudubey/harshu_ruchika")
+                jalan("\033[1;96mgit clone https://github.com/harshudubey/harshu-ruchika")
                 jalan('\033[1;96mcd pakistan407')
                 jalan('\033[1;96mpython2 ruchika11')
                 jalan('\033[1;96mUser: harshu')
@@ -355,7 +355,7 @@ def pilih():
 	elif unikers =="11":
 		os.system('clear')
 		print logo
-		print " \033[1;92m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•Data Reset•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\n"
+		print " \033[1;92m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•Data Reset•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\n"
                 jalan('\033[1;96m=10%')
                 jalan("\033[1;96m==20%")
                 jalan('\033[1;96m===30%')
